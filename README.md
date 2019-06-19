@@ -1,4 +1,4 @@
-# first-cue-project
+# first-vue-project
 
 ## Project setup
 ```
